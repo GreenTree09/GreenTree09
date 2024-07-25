@@ -17,11 +17,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/GreenTree09/Detection-Lab/tree/main">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a hrref="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Wazuh to SOAR Implementation | <a href="https://github.com/GreenTree09/Wazuh-to-SOAR-Implementation">SOAR Implementation</a>|
+| Setup Of HoneyPot         | <a href="https://github.com/GreenTree09/HoneyPot">HoneyPot</a>|
+| Malware Analysis Lab      | <a href="https://github.com/GreenTree09/Malware-Analysis-Lab">Malware Analysis Lab</a>|
+| Case Management with TheHive                  | <a hrref="https://github.com/GreenTree09/Wazuh-to-SOAR-Implementation">Working on it</a>|
+| Scripting and Automation for Threat Mitigation | <a hrref="https://github.com/GreenTree09/Wazuh-to-SOAR-Implementation">Working on it</a>|
 
 ## Tools
 
@@ -57,7 +57,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 - <a href="https://github.com/GreenTree09/Detection-Lab/tree/main">Detection Lab</a>
-- SOC Automation Project
+- <a href="https://github.com/GreenTree09/Wazuh-to-SOAR-Implementation">SOAR Implementation</a>
+- <a href="https://github.com/GreenTree09/HoneyPot">HoneyPot</a>
+- <a href="https://github.com/GreenTree09/Malware-Analysis-Lab">Malware Analysis Lab</a>
 <!--
 **GreenTree09/GreenTree09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
