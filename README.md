@@ -20,8 +20,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/GreenTree09/Detection-Lab/tree/main">Detection Lab</a>|
 | Wazuh to SOAR Implementation | <a href="https://github.com/GreenTree09/Wazuh-to-SOAR-Implementation">SOAR Implementation</a>|
 | Malware Analysis Lab      | <a href="https://github.com/GreenTree09/Malware-Analysis-Lab">Malware Analysis Lab</a>|
+| Automated Penetration Testing Framework | <a href="https://github.com/GreenTree09/Automated_Penetration_Testing_Framework">Automated Penetration Testing Framework</a>|
 | Case Management with TheHive                  | <a hrref="https://github.com/GreenTree09/Wazuh-to-SOAR-Implementation">Working on it</a>|
-| Scripting and Automation for Threat Mitigation | <a hrref="https://github.com/GreenTree09/Wazuh-to-SOAR-Implementation">Working on it</a>|
 
 ## Tools
 
